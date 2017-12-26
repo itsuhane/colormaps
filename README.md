@@ -20,5 +20,5 @@ rgb_color color = colormap(x);                    // (r,g,b) values in [0,1]^3
 
 Feel free to do anything with my code.
 
-The [CET Perceptually Uniform Colour Maps](http://peterkovesi.com/projects/colourmaps/) is [Peter Kovesi](http://peterkovesi.com/)'s work.
+The [CET Perceptually Uniform Colour Maps](http://peterkovesi.com/projects/colourmaps/) is [Peter Kovesi](http://peterkovesi.com/)'s work.  
 Please cite the corresponding paper (given in Peter's page) if you find the color maps useful.
