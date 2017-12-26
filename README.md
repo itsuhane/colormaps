@@ -1,5 +1,6 @@
 # colormaps
-Drop-in library for nice color-maps in C++
+Drop-in library for nice color-maps in C++.
+
 Currently, color-maps are from [CET Perceptually Uniform Colour Maps](http://peterkovesi.com/projects/colourmaps/).
 
 ## Usage
