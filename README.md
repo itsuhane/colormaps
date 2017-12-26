@@ -8,9 +8,9 @@ Simply include `colormaps.h` and use desired color-maps.
 Example:
 ```cpp
 #include <colormaps.h>
-using colormaps::rgb_color;                      // just std::array<double, 3>
-auto colormap = colormap::linear::kryw_0_97_c73; // pick color-map
+using colormaps::rgb_color;                       // just std::array<double, 3>
+auto colormap = colormaps::linear::kryw_0_97_c73; // pick color-map
 
-double x = 0.7;                                  // value in [0,1]
-rgb_color color = colormap(x);                   // (r,g,b) values in [0,1]^3
+double x = 0.7;                                   // value in [0,1]
+rgb_color color = colormap(x);                    // (r,g,b) values in [0,1]^3
 ```
