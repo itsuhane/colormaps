@@ -3,7 +3,7 @@
 #include <array>
 #include <algorithm>
 
-namespace colormap {
+namespace colormaps {
     typedef std::array<double, 3> rgb_color;
 
     namespace all {
